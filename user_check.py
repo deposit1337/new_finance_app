@@ -63,6 +63,10 @@ def regester():
             os.system('cls')
     save()
 
+def fun():
+    print("I have so much fun!")
+
+
 
 
 
